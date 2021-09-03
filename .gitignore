@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints
+**/.vscode
+tmp.html
+.clang-format
+.DS_Store
+**/*.pdf
